@@ -1,0 +1,34 @@
+{
+    "incomes": [
+        {
+            "id": "1",
+            "name": "Supermarket",
+            "amount": 100,
+            "date": "now"
+        },
+        {
+            "id": "2",
+            "name": "Drug Store",
+            "amount": 100,
+            "date": "2d"
+        },
+        {
+            "id": "3",
+            "name": "Fishing Store",
+            "amount": 100,
+            "date": "3d"
+        },
+        {
+            "id": "4",
+            "name": "Book Store",
+            "amount": 100,
+            "date": "1w"
+        },
+        {
+            "id": "5",
+            "name": "Udemy",
+            "amount": 100,
+            "date": "1w"
+        }
+    ]
+}
